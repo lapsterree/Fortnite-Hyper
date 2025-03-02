@@ -13,13 +13,21 @@ Discover Hyper, a sophisticated utility designed to enhance the Fortnite experie
 
 # 🖥 System  requirements
 Supported game version :: Epic games
+
 Supported Game Mode :: Windowed / Full Screen in Window
+
 Supported CPUs :: Intel and AMD
+
 Supported GPUs :: Nvidia and AMD
+
 Supported OS :: Windows 10-11 x64
+
 Supported builds :: all from 1903 to the latest builds
+
 Support invisibility on videos or screenshots :: yes
+
 HWID Spoofer :: Built in, working
+
 Cleaner :: Built in 
 
 # ⚙️ Functions list
