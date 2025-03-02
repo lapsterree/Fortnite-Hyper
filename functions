@@ -1,0 +1,60 @@
+AIMBOT:
+
+* Enable
+* Always
+* Prediction
+* Target Knocked
+* Target Bots
+* Target Team
+* Visible Check
+* Draw FOV Border
+* Draw FOV Background
+* Mode: Legit / Rage
+* Bone: Head / Neck / Body / Pelvis
+* First Keybind
+* Second Keybind
+* Smooth
+* FOV Radius
+* Distance
+
+ESP Players:
+
+* Box
+* Box Filled
+* Line
+* Skeleton
+* Skeleton Thickness
+* Head Circle
+* Show Weapon Name
+* Show Ammo
+* Is Reloading
+* Distance
+* Nickname
+* Platform
+* View Line
+* Is In Vehicle
+* Show Bot
+* Show Team
+* Show Knocked
+* Visible Check
+* Rendering Distance
+
+Items ESP:
+
+* Enable
+* Show Count
+* Show Distance
+* Battle Mode
+* Battle Mode Keybind
+* Rendering Distance
+* Rarity: Common / Uncommon / Rare / Epic / Legendary / Mystic
+* World Objects: Chest / Ammunition Box / Machine Redux / Vehicle / Zipline
+
+MISC:
+
+* No Recoil
+* FPS Limit
+* Menu Language: English / Chinese
+* Menu Keybind
+* Unload Keybind
+* Crosshair: Style / Size / Thickness
