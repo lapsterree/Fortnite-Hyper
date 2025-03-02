@@ -50,3 +50,11 @@ Cleaner :: Built in
 # 🛠 Update Log
 - Updated for patch! [28.02.2025]
 - Fixed Silent aimbot [01.03.2025]
+
+# 🛠 SEO Tags [IGNORE] 
+
+- free fortnite hack 
+- fortnite hacks free 
+- fortnite hack 
+- fortnite aimbot 
+- download fortnite hack
